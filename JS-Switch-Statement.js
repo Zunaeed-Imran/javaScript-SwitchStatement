@@ -1,4 +1,4 @@
-const favoriteAnimal = "shark"
+const favoriteAnimal = "shark" // using constant in switch statement
 
 switch (favoriteAnimal) {
   case "cat":
